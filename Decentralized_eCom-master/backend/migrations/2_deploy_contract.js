@@ -1,8 +1,5 @@
 /**
- * @author Pruthvi Kumar
- * @email pruthvikumar.123@gmail.com
- * @create date 2018-09-20 17:27:07
- * @modify date 2018-09-20 17:27:07
+ * @author Ujjawal
  * @desc Deployment desscription for all available solidity contracts.
 */
 
