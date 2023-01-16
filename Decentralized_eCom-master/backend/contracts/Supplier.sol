@@ -1,9 +1,6 @@
 /**
- * @author Pruthvi Kumar
- * @email pruthvikumar.123@gmail.com
- * @create date 2018-09-20 16:50:12
- * @modify date 2018-09-20 16:50:12
- * @desc Supplier in our E-Com platform.
+ * @author Ujjawal
+ 
 */
 pragma solidity ^0.4.17;
 // We have to specify what version of compiler this code will compile with
